@@ -2,4 +2,4 @@
 
 ## usage
 
-`npm install && node index`
+`npm install && node .`
